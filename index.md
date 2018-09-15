@@ -29,12 +29,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Kirin Zero</strong>"
+  content: "<strong>Brewery: <br></strong>Kirin Brewery Company<strong><br><br>% Purine-free:
+    <br></strong>100%<strong><br><br>ABV:<br></strong>3%<strong><br><br>Style: <br><br>BA
+    Rating:<br><br>Buy:</strong><br>"
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2018/09/15/What-are-the-major-beer-trends-for-2018_wrbm_large.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
