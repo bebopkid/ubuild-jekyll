@@ -34,8 +34,8 @@ page_sections:
     <br></strong>100%<strong><br><br>ABV:<br></strong>3%<strong><br><br>Style: <br><br>BA
     Rating:<br><br>Buy:</strong><br>"
   media:
-    image: "/uploads/2018/09/15/purine-free-beer-kirin_zero.jpg"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2018/09/15/purinefreebeer-kirin-zero.png"
+    alt_text: Kirin Zero
 - template: content-feature
   block: feature-1
   media_alignment: Right
