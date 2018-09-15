@@ -34,7 +34,7 @@ page_sections:
     <br></strong>100%<strong><br><br>ABV:<br></strong>3%<strong><br><br>Style: <br><br>BA
     Rating:<br><br>Buy:</strong><br>"
   media:
-    image: "/uploads/2018/09/15/What-are-the-major-beer-trends-for-2018_wrbm_large.jpg"
+    image: "/uploads/2018/09/15/purine-free-beer-kirin_zero.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
