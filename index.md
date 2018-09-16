@@ -53,6 +53,24 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   caption: Full width media element
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2018/09/15/What-are-the-major-beer-trends-for-2018_wrbm_large.jpg"
+    caption: 2 Column Media Element
+  image_2:
+    image: "/uploads/2018/09/15/What-are-the-major-beer-trends-for-2018_wrbm_large.jpg"
+- template: signup-bar
+  block: cta-bar
+  content: Signup Bar
+- template: simple-footer
+  block: footer-1
+  content: Simple footer
+- template: 4-column-footer
+  block: footer-2
+  col_2: 4 column footer
+  col_3: Test
+  col_4: Test
 
 ---
 foo bar
