@@ -44,7 +44,7 @@ page_sections:
     alt_text: Kirin Tanrei W Double
 - template: detail-content
   block: text-1
-  headline: Test
+  headline: Detail Content
   content: "<p>Test</p>"
 - template: 1-column-text
   block: one-column-1
