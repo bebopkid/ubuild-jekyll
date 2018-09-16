@@ -48,6 +48,8 @@ page_sections:
   content: "<p>Test</p>"
 - template: 1-column-text
   block: one-column-1
+  headline: 1 Column Text
+  content: Test
 
 ---
 foo bar
