@@ -71,6 +71,11 @@ page_sections:
   col_2: 4 column footer
   col_3: Test
   col_4: Test
+- template: hero-banner-w-image
+  block: hero-2
+  cta:
+    enabled: false
+  headline: 'Headline '
 
 ---
 foo bar
