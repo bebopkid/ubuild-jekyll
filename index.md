@@ -3,17 +3,14 @@ layout: blocks
 title: Purine Free Beer
 date: 2017-11-22 23:00:00 +0000
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  logo: ''
+- template: navigation-header
+  block: header-1
   navigation:
-  - link: "/"
-    link_text: Home
-  - link: "#"
-    link_text: List
-  cta:
-    url: ''
-    button_text: ''
+  - link: ''
+    link_text: Purine Free
+  - link: ''
+    link_text: Low Carb
+  - link_text: Non-Alcoholic
 - template: hero-banner-w-image
   block: hero-2
   headline: Death to purines ☠️
