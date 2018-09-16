@@ -13,8 +13,15 @@ page_sections:
   - link_text: Non-Alcoholic
 - template: hero-banner-w-image
   block: hero-2
-  headline: Death to purines ☠️
-  content: A list of purine-free and low-purine beers
+  headline: Death to<br>purines ☠️
+  content: A list of purine-free and low-purine beers.<br><br>Gout is a sudden and
+    painful inflammation of a joint caused by elevated levels of uric acid in the
+    blood, resulting in crystals depositing in the affected joint.Gout is more common
+    in people who are overweight and have metabolic syndrome, affecting about 6% of
+    adult men and 2% of women (it’s even more common in older people).<br><strong>Minimize
+    intake of sugar</strong>.<strong>Reduce intake of alcohol.</strong>&nbsp;Particularly
+    avoid beer and other high-carb alcoholic drinks.<strong>Lose excess weight and
+    reverse metabolic syndrome</strong>.&nbsp;Low carb and keto diets may help.
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
