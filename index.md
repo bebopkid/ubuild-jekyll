@@ -14,7 +14,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Death to<br><strong>purines </strong>☠️
-  content: A list of purine-free and low-purine beers.
+  content: A list of purine-free and low-purine beers for our friends who suffer from
+    gout, but still want to enjoy a cold one.
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
