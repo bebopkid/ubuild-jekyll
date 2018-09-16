@@ -44,38 +44,8 @@ page_sections:
     alt_text: Kirin Tanrei W Double
 - template: detail-content
   block: text-1
-  headline: Detail Content
-  content: "<p>Test</p>"
-- template: 1-column-text
-  block: one-column-1
-  headline: 1 Column Text
-  content: Test
-- template: full-width-media-element
-  block: media-1
-  caption: Full width media element
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2018/09/15/What-are-the-major-beer-trends-for-2018_wrbm_large.jpg"
-    caption: 2 Column Media Element
-  image_2:
-    image: "/uploads/2018/09/15/What-are-the-major-beer-trends-for-2018_wrbm_large.jpg"
-- template: signup-bar
-  block: cta-bar
-  content: Signup Bar
-- template: simple-footer
-  block: footer-1
-  content: Simple footer
-- template: 4-column-footer
-  block: footer-2
-  col_2: 4 column footer
-  col_3: Test
-  col_4: Test
-- template: hero-banner-w-image
-  block: hero-2
-  cta:
-    enabled: false
-  headline: 'Headline '
+  headline: Purine Free & Low Purine Beers
+  content: "<p>The following list of beers are either purine-free or low-purine.</p>"
 
 ---
 foo bar
