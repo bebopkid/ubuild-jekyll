@@ -26,7 +26,16 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Purine Free & Low Purine Beers
-  content: "<p>The following list of beers are either purine-free or low-purine.</p>"
+  content: "<p>Purine-free or low purine beers can help reduce gout.</p><p>Gout is
+    a sudden and painful inflammation of a joint caused by elevated levels of uric
+    acid in the blood, resulting in crystals depositing in the affected joint.Gout
+    is more common in people who are overweight and have metabolic syndrome, affecting
+    about 6% of adult men and 2% of women (it’s even more common in older people).</p><p>To
+    reduce gout it's recommended you:</p><ul><li><p><strong>Minimize intake of sugar</strong></p></li><li><p><strong>Reduce
+    intake of alcohol.</strong>&nbsp;Particularly avoid beer and other high-carb alcoholic
+    drinks.</p></li><li><p><strong>Lose excess weight and reverse metabolic syndrome</strong>.&nbsp;Low
+    carb and keto diets may help.</p></li></ul><p>The following beers are either low
+    in or free of purines, low carb (low sugar), or non-alcoholic (also reducing sugar).</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
