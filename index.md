@@ -23,6 +23,10 @@ page_sections:
     image: "/uploads/2018/09/15/What-are-the-major-beer-trends-for-2018_wrbm_large.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: detail-content
+  block: text-1
+  headline: Purine Free & Low Purine Beers
+  content: "<p>The following list of beers are either purine-free or low-purine.</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -44,8 +48,7 @@ page_sections:
     alt_text: Kirin Tanrei W Double
 - template: detail-content
   block: text-1
-  headline: Purine Free & Low Purine Beers
-  content: "<p>The following list of beers are either purine-free or low-purine.</p>"
+  headline: Low Carb & Keto Beers
 
 ---
 foo bar
