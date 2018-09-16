@@ -66,6 +66,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: full-width-media-element
+  block: media-1
 
 ---
 foo bar
