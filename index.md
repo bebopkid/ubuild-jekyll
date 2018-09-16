@@ -50,6 +50,9 @@ page_sections:
   block: one-column-1
   headline: 1 Column Text
   content: Test
+- template: full-width-media-element
+  block: media-1
+  caption: Full width media element
 
 ---
 foo bar
