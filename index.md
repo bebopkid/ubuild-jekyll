@@ -26,7 +26,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: detail-content
   block: text-1
-  headline: Purine Free & Low Purine Beers
+  headline: A list of beers for those who suffer from gout
   content: "<p>Purine-free or low purine beers can help reduce gout.</p><p>Gout is
     a sudden and painful inflammation of a joint caused by elevated levels of uric
     acid in the blood, resulting in crystals depositing in the affected joint.Gout
@@ -37,6 +37,10 @@ page_sections:
     drinks.</p></li><li><p><strong>Lose excess weight and reverse metabolic syndrome</strong>.&nbsp;Low
     carb and keto diets may help.</p></li></ul><p>The following beers are either low
     in or free of purines, low carb (low sugar), or non-alcoholic (also reducing sugar).</p>"
+- template: 1-column-text
+  block: one-column-1
+  headline: Purine Free & Low Purine Beers
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -56,19 +60,15 @@ page_sections:
   media:
     image: "/uploads/2018/09/15/purinefreebeer-tanrei-w-double.png"
     alt_text: Kirin Tanrei W Double
-- template: detail-content
-  block: text-1
+- template: 1-column-text
+  block: one-column-1
   headline: Low Carb & Keto Beers
 - template: content-feature
   block: feature-1
   media_alignment: Right
-- template: detail-content
-  block: text-1
-  headline: Non-Alcoholic Beers
 - template: 1-column-text
   block: one-column-1
-  headline: Low Carb & Keto Beers
-  content: Test
+  headline: Non-Alcoholic Beers
 
 ---
 foo bar
