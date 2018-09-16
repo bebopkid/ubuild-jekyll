@@ -49,6 +49,12 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Low Carb & Keto Beers
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+- template: detail-content
+  block: text-1
+  headline: Non-Alcoholic Beers
 
 ---
 foo bar
