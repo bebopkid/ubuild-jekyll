@@ -38,7 +38,7 @@ page_sections:
     alt_text: Kirin Zero
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>Tanrei W Double</strong>"
   content: "<strong>Brewery: <br></strong>Kirin Brewery Company<strong><br><br>% Purine-free:
     <br></strong>99%<strong><br><br>ABV:<br><br><br>Style: <br><br>BA Rating:<br></strong>2/5<strong><br><br>Buy:</strong><br>"
